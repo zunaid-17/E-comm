@@ -42,10 +42,10 @@ class Variation(models.Model):
 
     objects = VariationManager()
 
-    # def __str__(self):
-    #     return self.variation_value
     def __str__(self):
-        return self.product
+        return self.variation_value
+    # def __str__(self):
+    #     return self.product
     
 class ProductGallery(models.Model):
     product = models.ForeignKey(Product, default=None, on_delete=models.CASCADE)
