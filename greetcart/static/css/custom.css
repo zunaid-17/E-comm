@@ -45,6 +45,8 @@ label:hover ~ input:checked ~ label{
   color: #ffb503 !important;
 }
 
+/* product gallery */
+
 ul.thumb{
   margin:0 auto;
   padding: 0;
@@ -55,7 +57,7 @@ ul.thumb li{
   margin: 10px;
 }
 ul.thumb li img{
-  width: 80px;
-  height: 80px;
-  border: 1px solid grey;
+  width: 50px;
+  height: 50px;
+  border: 1px solid rgb(0, 0, 0);
 }
