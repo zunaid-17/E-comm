@@ -1,6 +1,6 @@
 # Setup Instructions
 
-1. Clone the repository `git clone https://github.com/dev-rathankumar/greatkart-pre-deploy.git`
+1. Clone the repository `git clone https://github.com/zunaid-17/E-comm.git`
 2. Navigrate to the working directory `cd greatkart-pre-deploy`
 3. Open the project from the code editor `code .` or `atom .`
 4. Create virtual environment `python -m venv env`
